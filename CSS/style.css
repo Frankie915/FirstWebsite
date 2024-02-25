@@ -1,11 +1,20 @@
 body {
 
-  Background-color: powderblue;
+  Background-color: rgb(232, 248, 250);
 
 }
 
-p {
-
-  Color: red;
+#personal {
+  float: left;
+  padding-left: 200px;
+  width: 300px;
 }
+
+#projects {
+  float: right;
+  padding-right: 300px;
+  width: 300px;
+}
+
+
   
